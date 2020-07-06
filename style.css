@@ -10,6 +10,15 @@ body, html {
   overflow: hidden;
   background-color: black;
 }
+.notice{
+position: absolute;
+width: 1440px;
+height: 81px;
+left: 0px;
+top: 0px;
+
+background: #06051D;
+}
 .notice h1{
 position: absolute;
 width: 118px;
