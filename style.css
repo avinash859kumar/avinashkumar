@@ -10,6 +10,19 @@ body, html {
   overflow: hidden;
   background-color: black;
 }
+.notice h1{
+position: absolute;
+width: 118px;
+height: 77px;
+left: 661px;
+top: 4px;
+margin: auto;
+display: flex;
+color: white;
+align-items: center;
+justify-content: center;
+
+}
 .content{
   width: 100%;
   height: 100%;
