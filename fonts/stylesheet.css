@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Adam';
+    src: url('Adam-Light.woff') format('woff'),
+        url('Adam-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adam';
+    src: url('Adam-Medium.woff') format('woff'),
+        url('Adam-Medium.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adam';
+    src: url('Adam-Bold.woff') format('woff'),
+        url('Adam-Bold.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
